@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Giant's Causeway, Northen Ireland",
+        "cover": "https://images.unsplash.com/photo-1505576457712-b769c0c0a354?q=80&w=1586&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "link": "https://www.youtube.com/embed/YK-aZ-HalIU?si=fHuWbTmbHgF3pkBL",
+        "description": "A video taster of the Giant's Causeway on the coast of Co Antrim in the north of Ireland. Scientists say it was caused by volcanic eruptions...local legend says it was built by the Irish giant Finn MacCool who wanted to build a pathway to Scotland so he could fight a Scottish giant. Take a walk along the causeway with us."
+    },
+    {
+        "id": 2,
+        "title": "Cork City, Ireland",
+        "cover": "https://images.unsplash.com/photo-1601805824475-527ed396e4d2?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "link": "https://www.youtube.com/embed/DnGAUNnQLxQ?si=wX3iGFogMU4v7UEz",
+        "description": "From its beautiful scenery to lively social atmosphere, there are a lot of reasons to want to visit. And while many may consider Dublin the place to go, there is another Irish city much deserving of your attention. Cork is a city in the south of Ireland that often gets overlooked when planning a trip to the Emerald Isle. It packs the atmosphere of a full sized city into very compact and walkable borders for the optimum tourist experience. You will find it amazing how much you can make time to see. And that’s not even to mention the incredible scenery that surrounds the city!"
+    },
+    {
+        "id": 3,
+        "title": "Ballycarbery Castle, Co. Kerry",
+        "cover": "https://images.unsplash.com/photo-1588963940468-9e6e4d202209?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "link": "https://www.youtube.com/embed/S8-2_uKd0YU?si=UMk56S8TpSRA2CkD",
+        "description": "Ballycarbery Castle is a castle 3 kilometres (2 mi) from Cahersiveen, County Kerry, Ireland . The castle is high on a grass hill facing the sea and is a short distance from Cahergall Fort and Leacanabuile Fort."
+    },
+    {
+        "id": 4,
+        "title": "The Temple Bar, Co. Dublin",
+        "cover": "https://images.unsplash.com/photo-1630784032313-f780ae5532c6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "link": "https://www.youtube.com/embed/UIuJq-mcG18?si=oiQSQdP9RxQoPgFD",
+        "description": "The Temple Bar is one of the most famous pubs in Dublin. It’s history goes back to 1599 when Sir William Temple, a renowned teacher and philosopher, built his house and gardens here on newly reclaimed land around Temple Bar. His son, Sir John Temple, went onto developed what we know as Temple Bar after a ‘sea wall’ was built in 1656 to hold back the Liffey. The area thus became known as Temple’s Barr (A ‘Barr’ was a raised estuary sandbank often used for walking on). In 1707 -a new customs house was built on the site where U2’s Clarence Hotel stands today and soon after warehouses, taverns, theaters and even brothels shot up at every corner. The boom lasted barely a century when the new Custom House was built across the Liffey in 1791. Temple Bar fell into disrepair and became a run-down inner city slum until the mid-20th century. The state transport company CIE started buying up property here in the 1980’s with the view to building a huge bus depot. The area however let out the empty premises at cheap rates. Attracted by the bargain rents, artists, fringe boutiques and alternative eateries started to shoot up all over the area. This lead to the area becoming a unique bohemian buzzing quarter. The Irish state got involved in 1991 and set up a non-profit company to oversee the future development of Temple Bar. The Temple Bar has 450 bottles of rare and interesting whiskeys gathered for decades from all over the world and is Ireland’s largest collection."
+    },
+    {
+        "id": 5,
+        "title": "The Guinness Lake, Co. Wicklow",
+        "cover": "https://images.unsplash.com/photo-1571937146297-4a1aee898c60?q=80&w=1736&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "link": "https://www.youtube.com/embed/jdjgTXeE94Y?si=e67DFai_Z8P-VqsZ",
+        "description": "Lough Tay, is a small but scenic lake set on private property in the Wicklow Mountains in Ireland. The lake lies between the mountains of Djouce 725 metres, and Luggala 595 metres, and is dominated by Luggala's east-facing granite cliffs. The view into Lough Tay (with the cliffs of Luggala behind) is a popular scenic viewpoint in Wicklow and is easily viewed from one of the several car-parks along the R759 road. Lough Tay is the setting for the fictional village of Kattegat in the 2013 television historical drama series Vikings."
+    },
+    {
+        "id": 6,
+        "title": "Guinness StoreHouse, Co. Dublin",
+        "cover": "https://images.unsplash.com/photo-1520361580263-96c088e660a3?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "link": "https://www.youtube.com/embed/WkrsEyLqQQ8?si=b3pL37UQimTq6-QF",
+        "description": "The  tour of the Guinness Storehouse, located in St. James’s Gate Brewery in Dublin, Ireland. While the tour itself is dry, your admission fee does include a pint of Guinness at the conclusion of your exploration. This seven-floor marvel is built around a glass atrium shaped like a giant-sized pint of the famous stout. Anything you ever wondered about Guinness will be revealed in this towering building. Did you know that Arthur Guinness first started brewing ale in 1759? During your Guinness Storehouse sightseeing, you’ll learn more about Guinness himself, as well as take a gander at the lease he signed to ensure Guinness remains brewed in Dublin for millennia to come. Yes, we said millennia; the lease is for 9,000 years. Guinness Storehouse tourism includes a first-hand look at the company’s brewing methods, and once you’ve taken in just how much work goes into crafting the perfect barrel, you can sample its glory in the tasting lab. You can also feast on genuine Irish beef and Guinness stew in the Brewers Dining Hall as well as pour your own pint of Guinness at the Perfect Pint Bar. For the ultimate Guinness experience, head to the seventh-floor Gravity Bar, for 360-degree views of Dublin and a free pint of Guinness that’s included in the admission fee. Please drink responsibly."
+    }
+]
