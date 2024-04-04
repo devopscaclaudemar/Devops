@@ -6,7 +6,6 @@ function Navbar () {
     return (
         <header className={styles.navbar}>
             <Link to="./" >
-                <img></img>
             </Link>
             <nav>
                 <NavbarLink url="./">
