@@ -19,7 +19,6 @@ function Home () {
                     return <Card {...video} key={video.id} />
                 })}
             </section>
-            <ExchangeRates />
         </>
     )
 }
