@@ -3,7 +3,6 @@ import Card from "../../components/Cards";
 import styles from '../../Styles.module.css';
 import Title from "../../components/Title";
 import text from "../../json/db.json";
-import ExchangeRates from "Api/currency";
 
 function Home () {
     return (
