@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Install and update Node.js and npm
-sudo apt update && sudo apt install nodejs npm
+sudo apt update && sudo apt-get install nodejs
  
 # Install pm2 - production process manager for Node.js
 sudo npm install -g pm2
