@@ -12,8 +12,8 @@ cd Devops/
 npm install
  
 # Save private key and the certificate
-echo $PRIVATE_KEY > privatekey.pem
-echo $SERVER > server.crt
+#echo $PRIVATE_KEY > privatekey.pem
+#echo $SERVER > server.crt
  
 # Kill all running processes
 pm2 kill
