@@ -20,3 +20,5 @@ pm2 kill
  
 # Start the app using pm2
 pm2 start npm --name "Devops" --env production
+
+#test
